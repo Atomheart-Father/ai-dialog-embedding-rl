@@ -28,8 +28,8 @@
 
 ```bash
 # 克隆项目
-git clone <your-repo-url>
-cd vest.ai1
+git clone https://github.com/<your-username>/<repository-name>.git
+cd <repository-name>
 
 # 安装依赖
 pip install -r requirements.txt
