@@ -6,6 +6,8 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/🤗-Transformers-yellow.svg)](https://huggingface.co/transformers/)
 
+**Language**: [🇨🇳 中文](README.md) | [🇺🇸 English](README_EN.md)
+
 ## ✨ 特色功能
 
 ### 🎯 新推出：直接Embedding压缩方案
