@@ -28,8 +28,8 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/Atomheart-Father/ai-dialog-embedding-rl.git
+cd ai-dialog-embedding-rl
 
 # 安装依赖
 pip install -r requirements.txt
